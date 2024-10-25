@@ -19,7 +19,7 @@ console.log(result3); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
 const result4 = numThree - numOne;
-console.log(result4); // Output: 4
+console.log(result4); // Output: 24
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
 const sum = numOne + numTwo + numThree;
